@@ -1,13 +1,13 @@
 # Shrreya's Portfolio
 
-A simple portfolio in the form of a reverse timeline including jobs, work engagements, scholarships, fellowships and other initiatives.
-This website was designed using [Tachyons](http://tachyons.io/).
+A simple portfolio in the form of a reverse timeline including skills, jobs, work engagements, scholarships, fellowships and other initiatives.
+This website was designed using [Tachyons](http://tachyons.io/), an amazing CSS Toolkit.
 
 ### Copyright license
 
 MIT License
 
-Copyright (c) 2017 Shrreya Bhatachaarya
+Copyright (c) 2018 Shrreya Bhatachaarya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
