@@ -7,7 +7,7 @@ This website was designed using [Tachyons](http://tachyons.io/), an amazing CSS 
 
 MIT License
 
-Copyright (c) 2018 Shrreya Bhatachaarya
+Copyright (c) 2017-19 Shrreya Bhatachaarya
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
